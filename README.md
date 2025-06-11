@@ -1,6 +1,8 @@
-###  My First Game with SpriteKit 🎮
+### My First Game with SpriteKit
 
-For the first time, I created a simple game called "Space Shooter." In this game, you choose your ship and aim to get the highest score possible. It's been an interesting and fun experience building a game with this framework. Developing with the latest versions of macOS and iOS at the Apple Developer Academy has been incredibly helpful. 
+Space Shooter is an exciting arcade game where players select their spaceship and compete to achieve the highest score. This project represents my initial experience in game development, leveraging SpriteKit and the latest macOS and iOS technologies.
+
+Developed at the Apple Developer Academy, Space Shooter demonstrates my ability to apply modern frameworks and development best practices. The process has been both challenging and rewarding, providing a strong foundation for future projects in interactive media and game design.
 
 ![alt text](https://github.com/T0MM11Y/SpriteKit-SpaceShooter/blob/main/SpaceShooter/Documentation/picture1.png?raw=true)
 ![alt text](https://github.com/T0MM11Y/SpriteKit-SpaceShooter/blob/main/SpaceShooter/Documentation/picture2.png?raw=true)
